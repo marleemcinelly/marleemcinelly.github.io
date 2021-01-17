@@ -1,14 +1,26 @@
+
+body {
+    background-image: url("assets/background.png");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 section {
-    background-color: #3950B0;
-    margin: 5px;
+    background-color: #68cc8e;
+    margin: 5px 5px 5px 5px;
 }
 
 article {
     background-color: white;
-    padding: 10px;
-    margin: 10px;
+    margin-bottom: 10px; 
 }
 
+#portfolio {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
 button {
-    margin: 15px;
+    margin-bottom: 15px;
 }
