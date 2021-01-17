@@ -1,5 +1,16 @@
 # marleemcinelly.github.io
 
+## Links
+
+* [Active deployment](https://marleemcinelly.github.io/)
+* [GitHub repository](https://github.com/marleemcinelly/marleemcinelly.github.io)
+
+## Technology Used
+
+* HTML
+* CSS
+* BootStrap
+
 ## Description
 
 This is a homepage designed to showcase some of my previous work, as well as small "About me" and contact sections
